@@ -1,4 +1,4 @@
-# Prueba técnica – Carrito de compras (Flutter, BLoC, Clean Architecture)
+# Carrito de compras (Flutter, BLoC, Clean Architecture)
 
 Aplicación de catálogo + carrito + checkout con sincronización en tiempo real entre pantallas, persistencia local y diseño adaptable.
 
